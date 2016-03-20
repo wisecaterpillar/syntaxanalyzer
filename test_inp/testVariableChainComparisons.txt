@@ -1,0 +1,4 @@
+LESS(x,y)
+EQUALS(y,z)
+LESS_EQUALS(z,w)
+?LESS(x,w)

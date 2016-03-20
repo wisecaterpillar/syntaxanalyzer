@@ -1,0 +1,3 @@
+NEG(y,x)
+NEG(y,z)
+?EQUALS(x,z)

@@ -1,0 +1,3 @@
+LESS(x,y)
+EQUALS(y,4)
+?LESS(x,7)

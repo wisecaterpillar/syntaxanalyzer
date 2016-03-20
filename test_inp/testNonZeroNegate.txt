@@ -1,0 +1,2 @@
+NONZERO(x)
+?!EQUALS(x,1)

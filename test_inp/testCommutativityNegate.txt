@@ -1,0 +1,2 @@
+EQUALS(x,y)
+?!EQUALS(y,z)

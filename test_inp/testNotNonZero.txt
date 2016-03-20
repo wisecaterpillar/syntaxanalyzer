@@ -1,0 +1,3 @@
+EQUALS(x,-3)
+NOT(x,y)
+?ZERO(y)

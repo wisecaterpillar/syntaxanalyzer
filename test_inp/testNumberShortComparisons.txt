@@ -1,0 +1,2 @@
+EQUALS(y,4)
+?LESS(y,7)

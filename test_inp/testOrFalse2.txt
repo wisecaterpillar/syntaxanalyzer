@@ -1,0 +1,3 @@
+OR(x,y,z)
+ZERO(x)
+?EQUALS(z,0)

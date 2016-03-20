@@ -1,0 +1,2 @@
+NOT_EQUALS(x,0)
+?NONZERO(x)

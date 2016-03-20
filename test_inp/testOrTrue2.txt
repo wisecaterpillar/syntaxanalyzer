@@ -1,0 +1,4 @@
+OR(x,y, z)
+NONZERO(x)
+ZERO(y)
+?NONZERO(z)

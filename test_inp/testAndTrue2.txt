@@ -1,0 +1,3 @@
+AND(x,y,z)
+EQUALS(x,2)
+?NOT_EQUALS(z,0)

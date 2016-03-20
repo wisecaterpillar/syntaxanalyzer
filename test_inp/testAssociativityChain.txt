@@ -1,0 +1,4 @@
+EQUALS(x,y)
+EQUALS(y,z)
+EQUALS(z,w)
+?EQUALS(x,w)

@@ -1,0 +1,2 @@
+EQUALS(x,0)
+?ZERO(x)
